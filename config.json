@@ -1,0 +1,17 @@
+{
+    "name": "Feature Planning Board",
+    "className": "CustomApp",
+    "server": "https://rally1.rallydev.com",
+    "sdk": "2.0rc1",
+    "javascript": [
+        "_ts-logger.js",
+        "_ts-overrides.js",
+        "ts-template-labeledprogressbartemplate.js",
+        "ts-plugin-columnheader-updater.js",
+        "ts-plugin-card-releasealignment.js",
+        "App.js"
+    ],
+    "css": [
+        "app.css"
+    ]
+}
